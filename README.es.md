@@ -152,7 +152,7 @@ Las versiones oficiales se consultan en [GitHub Releases](https://github.com/Edh
 
 Puedes consultar los cambios en [CHANGELOG.md](CHANGELOG.md) y las [notas de la primera versión](docs/releases/v0.1.0.md).
 
-> **Nota:** los archivos publicados después de crear el tag `v0.1.0`, incluida esta traducción, podrían estar únicamente en la rama `main`. El contenido histórico de un lanzamiento no debe modificarse silenciosamente.
+> **Nota:** los archivos publicados después de crear el tag `v0.1.0`, incluida esta traducción, están disponibles en `main` y podrían no formar parte del archivo histórico de la release. No debe reescribirse silenciosamente un lanzamiento anterior.
 
 ## Límites y consideraciones de seguridad
 
@@ -168,6 +168,6 @@ Se aceptan *issues* y *pull requests* con propuestas de mejora, errores reproduc
 
 ## Licencia y referencias
 
-El proyecto se distribuye bajo la [licencia MIT](LICENSE). © 2026 EdhuMS.
+Las instrucciones, plantillas y el CLI mantenidos por este proyecto se distribuyen bajo la [licencia MIT](LICENSE). © 2026 EdhuMS. Esta licencia no concede derechos sobre marcas de terceros, documentación externa ni servicios enlazados. Tampoco implica certificaciones de seguridad o compatibilidad universal.
 
 Referencias metodológicas: [Agent Skills](https://agentskills.io/specification), [Architecture Decision Records](https://adr.github.io/madr/), [Diátaxis](https://diataxis.fr/) y [Keep a Changelog](https://keepachangelog.com/).
