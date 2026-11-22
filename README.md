@@ -103,9 +103,9 @@ python scripts/pdc.py validate templates/PROJECT-STATE.json
 
 | Version | Highlights |
 | --- | --- |
-| **[v0.1.0](https://github.com/EdhuMS/ai-project-documentation-skill/releases)** | First public version: portable skill, evidence-based handoffs, three documentation profiles, local initializer/validator, templates and tests |
+| **[v0.1.0](https://github.com/EdhuMS/ai-project-documentation-skill/releases/tag/v0.1.0)** | First public version: portable skill, evidence-based handoffs, three documentation profiles, local initializer/validator, templates and tests |
 
-Release history is also maintained in [CHANGELOG.md](CHANGELOG.md). The link above opens GitHub's Releases section; a GitHub-hosted release is not implied until published there.
+Release history is also maintained in [CHANGELOG.md](CHANGELOG.md). The release link points to the published version tag. Later documentation improvements on `main` may not be included in the historical v0.1.0 archive.
 
 ## Limitations
 
@@ -122,4 +122,4 @@ Issues and pull requests are welcome. Please include reproducible examples, desc
 
 Design references: [Agent Skills](https://agentskills.io/specification), [Architecture Decision Records](https://adr.github.io/madr/), [Diátaxis](https://diataxis.fr/), and [Keep a Changelog](https://keepachangelog.com/).
 
-**License:** [MIT](LICENSE). © 2026 EdhuMS.
+**License:** The project-maintained skill instructions, templates and local CLI are distributed under [MIT](LICENSE). © 2026 EdhuMS. Third-party trademarks, external documentation and linked services are governed by their respective terms. No agent/platform compatibility or security certification is implied.
