@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "project_id": "replace-me",
+  "profile": "light",
+  "status": "in_progress",
+  "updated_at": null,
+  "canonical_storage": {
+    "provider": "filesystem",
+    "path": "./docs/continuity"
+  },
+  "repository": {
+    "url": null,
+    "branch": null,
+    "commit": null
+  },
+  "milestone": {
+    "name": null,
+    "status": "unknown"
+  },
+  "evidence": [],
+  "test_results": [],
+  "blockers": [],
+  "next_action": "Verify actual project state before continuing",
+  "verification_status": "unknown"
+}
