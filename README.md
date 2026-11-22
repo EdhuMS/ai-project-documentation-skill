@@ -1,5 +1,7 @@
 # AI Project Documentation Skill
 
+**Languages:** **English** | [Español](README.es.md)
+
 **Portable project documentation, evidence-based progress tracking, and verifiable handoffs between AI coding agents.**
 
 [![Version](https://img.shields.io/badge/version-v0.1.0-blue)](https://github.com/EdhuMS/ai-project-documentation-skill/releases)
